@@ -44,7 +44,7 @@ To run this project locally, you will need to set up your own Firebase and Gemin
 1.  **Clone the repository**
 
     ```bash
-    git clone [https://github.com/yourusername/plantit.git](https://github.com/yourusername/plantit.git)
+    git clone [https://github.com/Mr-Haseeb786/plantit.git](https://github.com/Mr-Haseeb786/plantit.git)
     cd plantit
     ```
 
